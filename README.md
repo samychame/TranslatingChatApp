@@ -59,5 +59,8 @@ CREATE TABLE messages (
 );
 ```
 
-##Author
-This project was created by Samy Chame
+
+
+## Author
+Developed by Samy Chame
+
